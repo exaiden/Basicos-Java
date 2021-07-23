@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: e x a i d e n
+Main-Class: Bienvenida
+X-COMMENT: Curso Java
